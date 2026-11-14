@@ -5,21 +5,24 @@ Ostad Data Engineering Bootcamp, ব্যাচ ০১ — অক্টোব�
 
 ## আমি কে
 
-My name is Hasibur Rahman. I want to work with data because it gives me much pleasure than any other works
-of my feild. I love it.
+My name is Hasibur Rahman.
+
+I want to work with data because it gives me much pleasure than any other works
+of my feild.
+
+....I love it.....
 
 ## এখন পর্যন্ত যা শিখেছি
 
-| সপ্তাহ | বিষয় | কাজ |
-|---|---|---|
-| ১ | Data Engineering-এর পরিচয়, Linux command line | [লিংক] |
-| ২ | Git, GitHub, Python-এর শুরু | [লিংক] |
+| সপ্তাহ | বিষয় |
+|---|---|
+| ১ | Data Engineering-এর পরিচয়, Linux command line |
+| ২ | Git, GitHub, Python-এর শুরু | 
 
 ## কী দিয়ে কাজ করি
 
 Python · SQL · Linux · Git
 
-[সপ্তাহে সপ্তাহে এই তালিকাটা বাড়বে]
 
 ## যোগাযোগ
 

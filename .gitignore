@@ -1,0 +1,24 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# গোপন জিনিস — এটা কখনো push করবেন না
+.env
+*.key
+credentials.json
+
+# বড় data ফাইল
+*.csv
+*.log
+*.parquet
+data/
+
+# সিস্টেমের আবর্জনা
+.DS_Store
+Thumbs.db
+
+# editor
+.vscode/
+.idea/

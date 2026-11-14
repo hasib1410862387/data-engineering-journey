@@ -10,7 +10,7 @@ My name is Hasibur Rahman.
 I want to work with data because it gives me much pleasure than any other works
 of my feild.
 
-....I love it.....
+....I love it.....,
 
 ## এখন পর্যন্ত যা শিখেছি
 
